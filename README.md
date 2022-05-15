@@ -1,3 +1,4 @@
-# Knowledge-Grab
-A Education Learning Management System
-Knowledge Grab is an Online Learning Management System that tend to allow users enroll for courses that they are interested in i.e Programming Languages etc, taking knowledge exams and also maybe get possible certifications for them. Any User can act as a Content creator as well as a Student.
+# Knowledge Grab
+This repository manages the semester-long project for ENPM613. 
+
+Knowledge Grab is a learning management website where users can learn assorted topics in Computer Science and Software Development. Some courses are certified by major tech companies as being sufficient for hiring purposes. If a user has completed a certain course, they know enough of that technology to meet company standards. 
